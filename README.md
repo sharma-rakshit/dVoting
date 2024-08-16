@@ -1,4 +1,4 @@
-# Voting Application
+# Decentralized Voting Application
 
 ## Overview
 
