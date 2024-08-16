@@ -106,4 +106,4 @@ The Voting Application is a decentralized system that utilizes blockchain techno
    > If you encounter **error** during `npm install`, please note that you might need to install Microsoft Visual C++ Redistributable packages from [learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170) (here is the direct download link for X64: [aka.ms/vs/17/release/vc_redist.x64.exe](https://aka.ms/vs/17/release/vc_redist.x64.exe))
 
 
-Made with ❤️ by [Rakshit Sharmal](https://rxit.me).
+Made with ❤️ by [Rakshit Sharma](https://rxit.me).
